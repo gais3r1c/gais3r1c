@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ---
 
 ## 📂 Projects
-| Name                        | Tech            | Descrizione breve                        |
+| Name                        | Tech            | Brief description                        |
 |-----------------------------|-----------------|------------------------------------------|
 | [Edix](https://github.com/ForzaElettromotrice/edix)| C++, OpenMP, Cuda, PostgreSQL, Redis          | Command-line image editor      |
 | [JUno](https://github.com/gais3r1c/JUno)        | Java, Design Pattern MVC  | The game "UNO!"               |
