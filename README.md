@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 ---
 
 ## 📂 Projects
+<!--
 | Name                        | Tech            | Brief description                        |
 |-----------------------------|-----------------|------------------------------------------|
 | [Edix](https://github.com/ForzaElettromotrice/edix)| C++, OpenMP, Cuda, PostgreSQL, Redis          | Command-line image editor      |
@@ -36,10 +37,26 @@ Here are some ideas to get you started:
 | [WasaPhoto](https://github.com/gais3r1c/wasa-photo)           | OpenAPI/YAML, Go, Vue.js, Docker  | RESTful website Instagram-like  |
 
 
+[![Readme Card]()](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card]()](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card]()](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gais3r1c&repo=JUno&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ForzaElettromotrice&repo=edix&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gais3r1c&repo=wasa-photo&theme=dracula" />
+</a>
+
 ---
 
 ## 📊 GitHub statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gais3r1c)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gais3r1c&size_weight=0.5&count_weight=0.5&hide=lua,scss,css,vim_script&layout=compact&show_icon=true&theme=dracula&langs_count=8)
+
 
 ---
 
