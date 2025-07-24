@@ -42,13 +42,13 @@ Here are some ideas to get you started:
 [![Readme Card]()](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/gais3r1c/JUno">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gais3r1c&repo=JUno&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ForzaElettromotrice/edix">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ForzaElettromotrice&repo=edix&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/gais3r1c/wasa-photo">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gais3r1c&repo=wasa-photo&theme=dracula" />
 </a>
 
