@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Andrea (@gais3r1c)
 
-**Aspiring Cyber Analyst | Python • Cybersecurity • DevOps**
+**Aspiring Cyber Analyst | Python • Cybersecurity**
 
 🎓 Soon to graduate with a B.Sc. in Computer Science and set to begin my M.Sc. in Cybersecurity this October.  
 🎯 Currently looking for part‑time/internship positions in software, cloud or sec‑ops  
@@ -35,21 +35,26 @@ Here are some ideas to get you started:
 | [Edix](https://github.com/ForzaElettromotrice/edix)| C++, OpenMP, Cuda, PostgreSQL, Redis          | Command-line image editor      |
 | [JUno](https://github.com/gais3r1c/JUno)        | Java, Design Pattern MVC  | The game "UNO!"               |
 | [WasaPhoto](https://github.com/gais3r1c/wasa-photo)           | OpenAPI/YAML, Go, Vue.js, Docker  | RESTful website Instagram-like  |
+| [KathaRange](https://github.com/gais3r1c/KathaRange) | Shell, Python, Dockerfile | A Kathara framework cyber lab  |
 
 
+[![Readme Card]()](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card]()](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card]()](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card]()](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<a href="https://github.com/gais3r1c/JUno">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gais3r1c&repo=JUno&theme=dracula" />
+<a href="https://github.com/gais3r1c/KathaRange">
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gais3r1c&repo=KathaRange&theme=dracula" />
 </a>
 <a href="https://github.com/ForzaElettromotrice/edix">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ForzaElettromotrice&repo=edix&theme=dracula" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ForzaElettromotrice&repo=edix&theme=dracula" />
 </a>
 <a href="https://github.com/gais3r1c/wasa-photo">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gais3r1c&repo=wasa-photo&theme=dracula" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gais3r1c&repo=wasa-photo&theme=dracula" />
+</a>
+<a href="https://github.com/gais3r1c/JUno">
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gais3r1c&repo=JUno&theme=dracula" />
 </a>
 
 ---
