@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 | [Edix](https://github.com/ForzaElettromotrice/edix)| C++, OpenMP, Cuda, PostgreSQL, Redis          | Command-line image editor      |
 | [JUno](https://github.com/gais3r1c/JUno)        | Java, Design Pattern MVC  | The game "UNO!"               |
 | [WasaPhoto](https://github.com/gais3r1c/wasa-photo)           | OpenAPI/YAML, Go, Vue.js, Docker  | RESTful website Instagram-like  |
-| [KathaRange](https://github.com/gais3r1c/KathaRange) | Shell, Python, Dockerfile | A Kathara framework cyber lab  |
+| [KathaRange](https://github.com/PANACEA-PRIN/MalwarePropagation) | Shell, Python, Dockerfile | A Kathara framework cyber lab  |
 
 
 [![Readme Card]()](https://github.com/anuraghazra/github-readme-stats)
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 [![Readme Card]()](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<a href="https://github.com/gais3r1c/KathaRange">
+<a href="https://github.com/PANACEA-PRIN/MalwarePropagation">
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gais3r1c&repo=KathaRange&theme=dracula" />
 </a>
 <a href="https://github.com/ForzaElettromotrice/edix">
