@@ -32,12 +32,10 @@ Here are some ideas to get you started:
 <!--
 | Name                        | Tech            | Brief description                        |
 |-----------------------------|-----------------|------------------------------------------|
-| [MalwarePropagation](https://github.com/PANACEA-PRIN/MalwarePropagation) | Shell, Python, Dockerfile | A Kathara framework cyber lab  |
 | [Edix](https://github.com/ForzaElettromotrice/edix)| C++, OpenMP, Cuda, PostgreSQL, Redis          | Command-line image editor      |
-| [WasaPhoto](https://github.com/gais3r1c/wasa-photo)           | OpenAPI/YAML, Go, Vue.js, Docker  | RESTful website Instagram-like  |
 | [JUno](https://github.com/gais3r1c/JUno)        | Java, Design Pattern MVC  | The game "UNO!"               |
-
-
+| [WasaPhoto](https://github.com/gais3r1c/wasa-photo)           | OpenAPI/YAML, Go, Vue.js, Docker  | RESTful website Instagram-like  |
+| [KathaRange](https://github.com/PANACEA-PRIN/MalwarePropagation) | Shell, Python, Dockerfile | A Kathara framework cyber lab  |
 
 
 [![Readme Card]()](https://github.com/anuraghazra/github-readme-stats)
@@ -47,24 +45,25 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/PANACEA-PRIN/MalwarePropagation">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gais3r1c&repo=KathaRange&theme=dracula" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=PANACEA-PRIN&repo=MalwarePropagation&theme=dracula" />
 </a>
 <a href="https://github.com/ForzaElettromotrice/edix">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ForzaElettromotrice&repo=edix&theme=dracula" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ForzaElettromotrice&repo=edix&theme=dracula" />
 </a>
 <a href="https://github.com/gais3r1c/wasa-photo">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gais3r1c&repo=wasa-photo&theme=dracula" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=gais3r1c&repo=wasa-photo&theme=dracula" />
 </a>
 <a href="https://github.com/gais3r1c/JUno">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gais3r1c&repo=JUno&theme=dracula" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=gais3r1c&repo=JUno&theme=dracula" />
 </a>
+
 
 ---
 
 ## 📊 GitHub statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gais3r1c&size_weight=0.5&count_weight=0.5&hide=lua,scss,css,vim_script&layout=compact&show_icon=true&theme=dracula&langs_count=8)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gais3r1c&size_weight=0.5&count_weight=0.5&hide=lua,scss,css,vim_script&layout=compact&show_icon=true&theme=dracula&langs_count=8)
 
 
 ---
 
-_Last updated: 2025‑07‑24_
+_Last updated: 2026‑02‑03_
