@@ -32,10 +32,12 @@ Here are some ideas to get you started:
 <!--
 | Name                        | Tech            | Brief description                        |
 |-----------------------------|-----------------|------------------------------------------|
+| [MalwarePropagation](https://github.com/PANACEA-PRIN/MalwarePropagation) | Shell, Python, Dockerfile | A Kathara framework cyber lab  |
 | [Edix](https://github.com/ForzaElettromotrice/edix)| C++, OpenMP, Cuda, PostgreSQL, Redis          | Command-line image editor      |
-| [JUno](https://github.com/gais3r1c/JUno)        | Java, Design Pattern MVC  | The game "UNO!"               |
 | [WasaPhoto](https://github.com/gais3r1c/wasa-photo)           | OpenAPI/YAML, Go, Vue.js, Docker  | RESTful website Instagram-like  |
-| [KathaRange](https://github.com/PANACEA-PRIN/MalwarePropagation) | Shell, Python, Dockerfile | A Kathara framework cyber lab  |
+| [JUno](https://github.com/gais3r1c/JUno)        | Java, Design Pattern MVC  | The game "UNO!"               |
+
+
 
 
 [![Readme Card]()](https://github.com/anuraghazra/github-readme-stats)
