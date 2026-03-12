@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Andrea (@gais3r1c)
 
-**Aspiring Cyber Analyst | Python • Cybersecurity**
+**Aspiring Cyber Analyst**
 
 🎓 Soon to graduate with a B.Sc. in Computer Science and set to begin my M.Sc. in Cybersecurity this October.  
 🎯 Currently looking for part‑time/internship positions in software, cloud or sec‑ops  
@@ -61,9 +61,13 @@ Here are some ideas to get you started:
 ---
 
 ## 📊 GitHub statistics
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gais3r1c&size_weight=0.5&count_weight=0.5&hide=lua,scss,css,vim_script&layout=compact&show_icon=true&theme=dracula&langs_count=8)
-
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gais3r1c&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gais3r1c&show_icons=true&locale=en&theme=tokyonight" alt="Zigao Wang's GitHub stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gais3r1c&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
-_Last updated: 2026‑02‑03_
+_Last updated: 2026‑03-12_
